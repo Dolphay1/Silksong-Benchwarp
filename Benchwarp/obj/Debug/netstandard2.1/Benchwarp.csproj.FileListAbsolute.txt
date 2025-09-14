@@ -1,0 +1,41 @@
+C:\GOG Games\Hollow Knight Silksong\BepInEx\scripts\Benchwarp.deps.json
+C:\GOG Games\Hollow Knight Silksong\BepInEx\scripts\Benchwarp.dll
+C:\GOG Games\Hollow Knight Silksong\BepInEx\scripts\Benchwarp.pdb
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.csproj.AssemblyReference.cache
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.AssemblyInfoInputs.cache
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.AssemblyInfo.cs
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.csproj.CoreCompileInputs.cache
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.csproj.Up2Date
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\obj\Debug\netstandard2.1\Benchwarp.pdb
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Benchwarp.deps.json
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Benchwarp.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Benchwarp.pdb
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\TeamCherry.TK2D.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\TeamCherry.Localization.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\TeamCherry.SharedUtils.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Unity.Addressables.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\PlayMaker.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Unity.ResourceManager.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\TeamCherry.NestedFadeGroup.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\TeamCherry.Cinematics.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\TeamCherry.Splines.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Assembly-CSharp-firstpass.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\TeamCherry.BuildBot.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\SharpDX.DirectInput.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\GalaxyCSharp.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\com.rlabrecque.steamworks.net.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Coffee.SoftMaskForUGUI.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\XGamingRuntime.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\ConditionalExpression.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Newtonsoft.Json.UnityConverters.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Unity.Profiling.Core.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Unity.Burst.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Unity.Mathematics.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\SharpDX.dll
+C:\Users\ryanthornton\RiderProjects\SampleProject\Benchwarp\bin\Debug\netstandard2.1\Unity.Burst.Unsafe.dll
